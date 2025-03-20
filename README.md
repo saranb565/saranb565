@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a developer exploring my interests in the field of Computer Science. I've worked on various AI/ML, App development, Web development and IoT projects. I'm always eager to learn new technology.
+I'm a Computer Science Student exploring my interests in new Technologies. I've worked on various AI/ML, App development, Web development and IoT projects. I'm always eager to learn new technology.
 
 
 ## 🌐 Socials:
